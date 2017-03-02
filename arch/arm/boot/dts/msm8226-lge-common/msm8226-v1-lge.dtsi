@@ -11,7 +11,6 @@
  */
 
 /dts-v1/;
-/include/ "msm8226-lge-reserve.dtsi"
 /include/ "../msm8226-v1.dtsi"
 
 /include/ "msm8226-lge-common.dtsi"
